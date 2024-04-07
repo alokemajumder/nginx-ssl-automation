@@ -1,5 +1,15 @@
 #!/bin/bash
 
+# Ubuntu Security Hardening Script
+# Author: Alok Majumder
+# GitHub: https://github.com/alokemajumder
+# License: MIT License
+
+# DISCLAIMER:
+# This script is provided "AS IS" without warranty of any kind, express or implied. The author expressly disclaims any and all warranties, 
+# express or implied, including any warranties as to the usability, suitability or effectiveness of any methods or measures this script 
+# attempts to apply. By using this script, you agree that the author shall not be held liable for any damages resulting from the use of this script.
+
 # This script installs Let's Encrypt SSL for Nginx on Linux and sets up automated renewals
 
 # Function to check if a domain resolves and display nameservers if it does not

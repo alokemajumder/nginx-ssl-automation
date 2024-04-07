@@ -1,5 +1,22 @@
 ## nginx-ssl-automation
 
+
+![GitHub stars](https://img.shields.io/github/stars/alokemajumder/nginx-ssl-automation?style=social)
+![GitHub forks](https://img.shields.io/github/forks/alokemajumder/nginx-ssl-automation?style=social)
+![GitHub issues](https://img.shields.io/github/issues/alokemajumder/nginx-ssl-automation)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/alokemajumder/nginx-ssl-automation)
+![GitHub](https://img.shields.io/github/license/alokemajumder/nginx-ssl-automation)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/alokemajumder/nginx-ssl-automation)
+![GitHub contributors](https://img.shields.io/github/contributors/alokemajumder/nginx-ssl-automation)
+![GitHub last commit](https://img.shields.io/github/last-commit/alokemajumder/nginx-ssl-automation)
+![GitHub top language](https://img.shields.io/github/languages/top/alokemajumder/nginx-ssl-automation)
+![Code size](https://img.shields.io/github/languages/code-size/alokemajumder/nginx-ssl-automation)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)
+![](https://img.shields.io/static/v1?label=Product&message=LetsEncrypt&color=blue)
+![](https://img.shields.io/static/v1?label=OS&message=Linux&color=blue)
+![](https://img.shields.io/static/v1?label=https&message=SSL&color=brighgreen)
+
+
 This repository contains a script for automating the installation and renewal of Let's Encrypt SSL certificates on Linux servers using Nginx. It simplifies the setup of SSL on Nginx by handling all necessary installations, configurations, and renewals automatically.
 
 ## Features
